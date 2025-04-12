@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Thauany Araujo Alves
+# Hi there! 👋 I'm Thauany Alves
 I'm a **Frontend Developer** passionate about building beautiful and functional web applications. With **5 years of experience in React**, I'm always looking for ways to improve my skills and create amazing user experiences.
 
 ## 🚀 About Me
