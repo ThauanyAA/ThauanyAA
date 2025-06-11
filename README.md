@@ -15,7 +15,7 @@ I'm a **Frontend Developer** passionate about building beautiful and functional 
 
 ## 📌 Projects
 
-- 🔹 [ToDo List - React Challenge](https://github.com/yThauanyAA/TodoList) 📋
+- 🔹 [ToDo List - React Challenge](https://github.com/ThauanyAA/TodoList) 📋
 - 🔹 [Coffee Delivery - React Challenge](https://github.com/ThauanyAA/coffee-delivery) ☕
 - 🔹 More projects coming soon...
 
